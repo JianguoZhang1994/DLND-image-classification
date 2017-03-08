@@ -4,12 +4,14 @@ The dataset consists of 60000 32x32 colour images in 10 classes, with 6000 image
 
 The program writted by [jupyter notebook](http://jupyter.org/) and run on [AWS EC2](https://aws.amazon.com/rds/aurora/) g2.2xlarge instance type with 32GiB storage.  ![image](https://github.com/JianguoZhang1994/DLND2-image-classification-CNN/blob/master/intance_type.png)
 
-You can also run on your local GPU device with python=3.6, tensorflow=1.0. Following the steps:
+ You can also run on your local GPU device with python=3.6, tensorflow=1.0. If you run on local CPU device like macbook pro with 16G memory, it will be very slow. Following the steps:
 
-**set up environment**
+**set up**environment
+
 `conda create -n dnld2-image-classification`
 
-**install tools**
+**install** tools
+
 `pip install tensorflow tqdm matplotlib numpy`
 
 ***Note in macOS, when you install tensorflow, it will install related tools like numpy, six, wheel automatically, but you may also need to install tqdm and some other tools needed.***
