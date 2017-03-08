@@ -7,7 +7,7 @@ The dataset consists of 60000 32x32 colour images in 10 classes, with 6000 image
 
 The program written by [jupyter notebook](http://jupyter.org/) and run on [AWS EC2](https://aws.amazon.com/rds/aurora/) g2.2xlarge GPU instance type with 32GiB storage.  ![image](https://github.com/JianguoZhang1994/DLND2-image-classification-CNN/blob/master/intance_type.png)
 
- You can also run on your local GPU device with ***TensorFlow=1.0***, ***python=3.6***. If you run on local CPU device like macbook pro with 16G memory, it will be very slow. 
+ You can also run on your local GPU device with ***TensorFlow=1.0***, ***python=3.6***. If you run on local CPU device like macbook pro late 2016 with 16G memory, it will be very slow. 
  
 ## For running the program, follow belowing steps:
 
