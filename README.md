@@ -14,7 +14,7 @@ The program writted by [jupyter notebook](http://jupyter.org/) and run on [AWS E
 
 `pip install tensorflow tqdm matplotlib numpy`
 
-***Note in macOS/Linux, when you install tensorflow, it will install related tools like numpy, six, wheel automatically, but you may also need to install tqdm and some other tools needed.***
+***Note in macOS/Linux, when you install tensorflow, it will install related tools like numpy, six, wheel automatically, but you may also need to install tqdm and some other tools if needed.***
 
 **Run** dlnd_image_classification.ipynb 
 
