@@ -9,7 +9,7 @@ The program written by [jupyter notebook](http://jupyter.org/) and run on [AWS E
 
  You can also run on your local GPU device with ***TensorFlow=1.0***, ***python=3.6***. If you run on local CPU device like macbook pro with 16G memory, it will be very slow. 
  
-### For running the program, follow belowing steps:
+## For running the program, follow belowing steps:
 
 **Set up** environment
 
