@@ -6,11 +6,11 @@ The program writted by [jupyter notebook](http://jupyter.org/) and run on [AWS E
 
  You can also run on your local GPU device with python=3.6, tensorflow=1.0. If you run on local CPU device like macbook pro with 16G memory, it will be very slow. Following the steps:
 
-**set up**environment
+**Set up** environment
 
 `conda create -n dnld2-image-classification`
 
-**install** tools
+**Install** tools
 
 `pip install tensorflow tqdm matplotlib numpy`
 
