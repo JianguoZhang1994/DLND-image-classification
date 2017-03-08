@@ -14,9 +14,10 @@ The program writted by [jupyter notebook](http://jupyter.org/) and run on [AWS E
 
 `pip install tensorflow tqdm matplotlib numpy`
 
-***Note in macOS, when you install tensorflow, it will install related tools like numpy, six, wheel automatically, but you may also need to install tqdm and some other tools needed.***
+***Note in macOS/Linux, when you install tensorflow, it will install related tools like numpy, six, wheel automatically, but you may also need to install tqdm and some other tools needed.***
 
-**run** dlnd_image_classification.ipynb 
+**Run** dlnd_image_classification.ipynb 
+
 `jupyter notebook`
 
 The server home should open in your browser. By default, the notebook server runs at http://localhost:8888. If you aren't familiar with this, localhost means your computer and 8888 is the port the server is communicating on. As long as the server is still running, you can always come back to it by going to http://localhost:8888 in your browser.
